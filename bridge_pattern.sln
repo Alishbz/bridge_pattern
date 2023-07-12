@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bridge_pattern", "bridge_pattern\bridge_pattern.vcxproj", "{7476F421-E954-42BC-9F15-D3EEDB7B07D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7476F421-E954-42BC-9F15-D3EEDB7B07D2}.Debug|x64.ActiveCfg = Debug|x64
+		{7476F421-E954-42BC-9F15-D3EEDB7B07D2}.Debug|x64.Build.0 = Debug|x64
+		{7476F421-E954-42BC-9F15-D3EEDB7B07D2}.Debug|x86.ActiveCfg = Debug|Win32
+		{7476F421-E954-42BC-9F15-D3EEDB7B07D2}.Debug|x86.Build.0 = Debug|Win32
+		{7476F421-E954-42BC-9F15-D3EEDB7B07D2}.Release|x64.ActiveCfg = Release|x64
+		{7476F421-E954-42BC-9F15-D3EEDB7B07D2}.Release|x64.Build.0 = Release|x64
+		{7476F421-E954-42BC-9F15-D3EEDB7B07D2}.Release|x86.ActiveCfg = Release|Win32
+		{7476F421-E954-42BC-9F15-D3EEDB7B07D2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52859FD5-01C9-4106-8C0F-7BA376138D1B}
+	EndGlobalSection
+EndGlobal
